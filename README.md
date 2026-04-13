@@ -1,5 +1,9 @@
-# Residência Porto Digital - Motiron Technologies
-O repositório do Squad 55 da residência 2026.1 do Porto Digital juntamente com a empresa Motiron Technologies
+<div align="center">
+   
+# Título do Projeto
+Residência Porto Digital 2026.1 - Squad 55 - Motiron Technologies
+
+</div>
 
 ## Descrição
 Durante a mentoria, o squad deverá desenvolver o frontend de uma plataforma de
