@@ -1,6 +1,6 @@
 <div align="center">
 
-# Senac Motirõ
+# Senac Motiron
 Plataforma de gerenciamento e divulgação de eventos institucionais
 
 </div>
