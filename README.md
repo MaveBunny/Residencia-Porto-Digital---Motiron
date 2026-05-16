@@ -6,7 +6,7 @@ Plataforma de gerenciamento e divulgação de eventos institucionais
 </div>
 
 ## Descrição
-O **Senac Motirõ** é uma solução web moderna criada para centralizar a divulgação e gestão de todas as atividades acadêmicas da instituição, como palestras, workshops e conferências. O sistema elimina a dispersão de informações, permitindo que alunos e o público externo encontrem e se inscrevam em eventos em um só lugar, com uma interface intuitiva e premium.
+O **Senac Motiron** é uma solução web moderna criada para centralizar a divulgação e gestão de todas as atividades acadêmicas da instituição, como palestras, workshops e conferências. O sistema elimina a dispersão de informações, permitindo que alunos e o público externo encontrem e se inscrevam em eventos em um só lugar, com uma interface intuitiva e premium.
 
 ## Tecnologias Usadas
 
